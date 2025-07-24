@@ -1,1 +1,4 @@
-
+- /data → Raw dataset files used for analysis (Excel/CSV)
+- /dashboard → Power BI (.pbix) file containing the visuals
+- /images → Screenshots of the final dashboard
+- README.md → Project overview, tools used, and key insights
